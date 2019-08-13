@@ -25,7 +25,7 @@ int main()
     if( strcmp(mod, "seowooilEnc")==0){
         mods = 1; // each dec, enc sequence are same
     }
-    else if( strcmp(mod, "seowooilDec) == 0){
+    else if( strcmp(mod, "seowooilDec") == 0){
         mods = 1;
     }
     else {
